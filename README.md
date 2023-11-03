@@ -27,6 +27,3 @@
                 * ドラムパターン
         1. インストゥルメンタル版で保存（.mp3）
     * [Meta MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
-
-https://magenta.tensorflow.org/studio
-https://magenta.tensorflow.org/studio
