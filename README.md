@@ -1,5 +1,4 @@
 # Generative-AI-Tools
-生成AIツール
 
 * テキスト生成AI
     * [ChatGPT](https://chat.openai.com/)
