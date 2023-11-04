@@ -49,7 +49,7 @@
 ## [**NeuralNote**](https://github.com/DamRsn/NeuralNote)（音声→MIDI変換）
 
 > NeuralNote（ニューラルノート）について  
-    ・深層学習（ディープラーニング）を利用
+    ・深層学習（ディープラーニング）を利用  
     ・音声ファイル（3分迄）をMIDI（.mid）に変換  
     ・スタンドアロン版（Mac/Win対応）とVST3版がある
     ・.wav .aiff .flac .mp3 .ogg に対応
