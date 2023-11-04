@@ -6,7 +6,7 @@
     * [Claude2](https://claude.ai/chats)（クロード2）
 
 
-### [**CREEVO**](https://creevo-music.com/)（歌詞→作曲）
+#### [**CREEVO**](https://creevo-music.com/)（歌詞→作曲）
 
 > CREEVO（クリーボ）について  
     ・歌詞をもとに作曲（.mp3）する音楽生成AI  
@@ -35,7 +35,7 @@
 1. [音声合成版] or [インストゥルメンタル版] を保存（.mp3）
 
 
-### [**NeuralNote**](https://github.com/DamRsn/NeuralNote)（Audio→MIDI変換）
+#### [**NeuralNote**](https://github.com/DamRsn/NeuralNote)（Audio→MIDI変換）
 
 > NeuralNote（ニューラルノート）について  
     ・音声ファイル（3分迄）をMIDI（.mid）に変換  
