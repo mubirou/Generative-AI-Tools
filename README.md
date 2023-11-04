@@ -8,12 +8,13 @@
     * Claude2（テキスト生成AI）
     * Gooble Bard（テキスト生成AI）
 * 音楽生成AI関連
-    * Audacity（DAW）
     * Basic Pitch（音声→MIDI変換）
     * CREEVO（歌詞→音楽生成AI）
     * MusicGen（テキスト→音楽生成AI）
     * NeuralNote（音声→MIDI変換）
-    * signa（MIDIシーケンサー）
+    * 補助ツール
+        * Audacity（DAW）
+        * signa（MIDIシーケンサー）
 * 音声生成AI
     * 音読さん（音声生成AI）
 * 動画生成AI
