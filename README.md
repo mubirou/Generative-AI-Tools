@@ -67,4 +67,10 @@
 参考：[**signal**](https://signal.vercel.app/)（オンラインMIDIシーケンサー）  
 
 
+## [Basic Pitch](https://basicpitch.spotify.com/)
+
+> Basic Pitch（ベーシックピッチ）について  
+    ・ウェブベースで音声ファイル→MIDIに変換
+    ・
+
 ### [**Meta MusicGen**](https://huggingface.co/spaces/facebook/MusicGen)
