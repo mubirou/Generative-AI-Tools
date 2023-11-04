@@ -9,7 +9,7 @@
 ### [**CREEVO**](https://creevo-music.com/)（歌詞→作曲）
 
 > CREEVO（クリーボ）について  
-    ・歌詞をもとに作曲する音楽生成AI  
+    ・歌詞をもとに作曲（.mp3）する音楽生成AI  
     ・京都大学の研究チームによる開発  
     ・同様のツールに東大 [Orpheus](https://www.orpheus-music.org/)（オルフェウス）がある
 
