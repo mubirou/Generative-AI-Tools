@@ -99,7 +99,7 @@
     ・既存のメロディ（.mp3）+プロンプトでも生成可能  
 
 参考：[YouTube](https://www.youtube.com/results?search_query=Meta+MusicGen)（紹介動画）  
-注意：正直まだまだびみょーなツール（2023年11月4日現在）  
+※正直まだまだびみょーなツール（2023年11月4日現在）  
 
 
 ### [**Runway Gen-2**](https://app.runwayml.com/video-tools/teams/takashi246ra/dashboard)
