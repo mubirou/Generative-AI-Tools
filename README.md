@@ -2,10 +2,9 @@
 
 ### この項目は書きかけです
 
-* テキスト生成AI
-    * [ChatGPT](https://chat.openai.com/)
-    * [Gooble Bard](https://bard.google.com/chat)
-    * [Claude2](https://claude.ai/chats)（クロード2）
+## [ChatGPT](https://chat.openai.com/)（テキスト生成AI）
+## [Gooble Bard](https://bard.google.com/chat)（テキスト生成AI）
+## [Claude2 クロード](https://claude.ai/chats)（テキスト生成AI）
 
 
 ## [**音読さん**](https://ondoku3.com/ja/)（音声生成AI）
