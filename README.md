@@ -52,7 +52,7 @@
         * MIN NOTE DURATION ≒ ノイズ除去（初期値125ms）
     1. SCALE QUANTIZE
         * RANGE ≒ ローパス･ハイパスフィルタ
-1. [**DRAG THE MIDI FILE FROM HERE**] 箇所（判り難い）をデスクトップ等にドラッグして出力（**.mid**）  
+1. [DRAG THE MIDI FILE FROM HERE] 箇所（判り難い）をデスクトップ等にドラッグして出力（.mid）  
 参考：[GIGAZINE](https://gigazine.net/news/20230515-neuralnote/)（2023年5月15日記事）  
 参考：[signal](https://signal.vercel.app/)（オンラインMIDIシーケンサー）  
 
