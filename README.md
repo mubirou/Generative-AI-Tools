@@ -152,3 +152,4 @@
     ・生成時間に制限あり
 
 参考：[YouTube](https://www.youtube.com/watch?v=ncwGMlccMkU)（使い方完全解説）  
+※将来に期待  
