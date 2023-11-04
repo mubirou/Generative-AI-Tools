@@ -39,4 +39,4 @@
                 * MIN NOTE DURATION ≒ ノイズ除去（初期値125ms）
             1. SCALE QUANTIZE
                 * RANGE ≒ ローパス･ハイパスフィルタ
-        1. [**DRAG THE MIDI FILE FROM HERE**] 箇所をデスクトップにドラッグして出力（**.mid**）
+        1. [**DRAG THE MIDI FILE FROM HERE**] 箇所をデスクトップ等にドラッグして出力（**.mid**）
