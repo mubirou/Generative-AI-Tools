@@ -7,7 +7,7 @@
     * ChatGPT（テキスト生成AI）
     * Claude2（テキスト生成AI）
     * Gooble Bard（テキスト生成AI）
-* 音楽生成AI関連
+* 音楽生成AI
     * Basic Pitch（音声→MIDI変換）
     * CREEVO（歌詞→音楽生成AI）
     * MusicGen（テキスト→音楽生成AI）
