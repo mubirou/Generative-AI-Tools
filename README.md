@@ -35,10 +35,14 @@
 1. [音声合成版] or [インストゥルメンタル版] を保存（.mp3）
 
 
-### [**NeuralNote**](https://github.com/DamRsn/NeuralNote)（Audio→MIDI変換）
+### [**NeuralNote**](https://github.com/DamRsn/NeuralNote)
 
-1. [ここ](https://github.com/DamRsn/NeuralNote/releases)から NeuralNote_Standalone_Windows.zip をダウンロード
-1. 展開後 NeuralNote.exe を起動
+> NeuralNote について  
+    ・Audio→MIDI変換ツール  
+    ・スタンドアロン版（Mac/Windows対応）とVST3版がある
+
+1. [ここ](https://github.com/DamRsn/NeuralNote/releases)から NeuralNote_Standalone_Windows.zip を選択
+1. ダウンロード→展開後 NeuralNote.exe を起動
 1. [LOAD OR DROP AN AUDIO FILE] から 〇〇.wav をロード
 1. 各種設定  
     1. TRANSCRIPTION
