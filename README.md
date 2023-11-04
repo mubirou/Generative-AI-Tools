@@ -39,7 +39,7 @@
 
 > NeuralNote について  
     ・Audio→MIDI変換ツール  
-    ・スタンドアロン版（Mac/Windows対応）とVST3版がある
+    ・スタンドアロン版（Mac/Win対応）とVST3版がある
 
 1. [ここ](https://github.com/DamRsn/NeuralNote/releases)から NeuralNote_Standalone_Windows.zip を選択
 1. ダウンロード→展開後 NeuralNote.exe を起動
