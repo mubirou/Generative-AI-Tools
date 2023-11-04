@@ -4,10 +4,11 @@
 
 #### Index
 * テキスト生成AI
-    * [ChatGPT](#ChatGPT)（テキスト生成AI）
-    * [Claude2](#Claude)（テキスト生成AI）
-    * [Gooble Bard](#Bard)（テキスト生成AI）
+    * [ChatGPT](#ChatGPT)
+    * [Claude2](#Claude)
+    * [Gooble Bard](#Bard)
 * 画像生成AI
+    * [DALL･E3](#DALLE)
 * 音楽生成AI
     * [Basic Pitch](#BasicPitch)（音声→MIDI変換）
     * [CREEVO](#CREEVO)（歌詞→音楽生成AI）
@@ -17,9 +18,9 @@
         * [Audacity](https://apps.microsoft.com/detail/audacity/XP8K0J757HHRDW?hl=ja-jp&gl=JP)（DAW）
         * [signal](https://signal.vercel.app/)（MIDIシーケンサー）
 * 音声生成AI
-    * [音読さん](#ondoku)（音声生成AI）
+    * [音読さん](#ondoku)
 * 動画生成AI
-    * [Runway Gen-2](#Runway)（動画生成AI）
+    * [Runway Gen-2](#Runway)
 
 ***
 <a id="ChatGPT"></a>
@@ -153,3 +154,15 @@
 
 参考：[YouTube](https://www.youtube.com/watch?v=ncwGMlccMkU)（使い方完全解説）  
 ※将来に期待  
+
+
+
+<a id="DALLE"></a>
+
+### [**DALL･E3**](https://app.runwayml.com/video-tools/teams/takashi246ra/dashboard)（動画生成AI）
+
+> DALL･E3（ダリ3）について
+    ・OpenAI社が開発する画像生成AI
+    ・[GPT-4]-[DALL･E3]-[プロンプト] で生成
+
+参考：[YouTube](https://www.youtube.com/watch?v=vqnPuTltFN8)（完全ガイド）  
