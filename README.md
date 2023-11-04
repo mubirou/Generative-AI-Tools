@@ -29,7 +29,7 @@
         1. インストゥルメンタル版で保存（.mp3）
     * [Meta MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
     * [NeuralNote](https://github.com/DamRsn/NeuralNote)
-        1. https://github.com/DamRsn/NeuralNote/releases から **NeuralNote_Standalone_Windows.zip** をダウンロード
+        1. [ここ](https://github.com/DamRsn/NeuralNote/releases)から **NeuralNote_Standalone_Windows.zip** をダウンロード
         1. 展開後 **NeuralNote.exe** を起動
         1. [**LOAD OR DROP AN AUDIO FILE**] から **〇〇.wav** をロード
         1. 各種設定  
