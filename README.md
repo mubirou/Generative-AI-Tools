@@ -26,8 +26,7 @@
                 * 伴奏パターン1,2
                 * 伴奏楽器
                 * ドラムパターン
-        1. インストゥルメンタル版で保存（.mp3）
-    * [Meta MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
+        1. [音声合成版] または [インストゥルメンタル版] を保存（.mp3）
     * [**NeuralNote**](https://github.com/DamRsn/NeuralNote)（Audio→MIDI変換）
         1. [ここ](https://github.com/DamRsn/NeuralNote/releases)から NeuralNote_Standalone_Windows.zip をダウンロード
         1. 展開後 NeuralNote.exe を起動
@@ -40,4 +39,4 @@
             1. SCALE QUANTIZE
                 * RANGE ≒ ローパス･ハイパスフィルタ
         1. [**DRAG THE MIDI FILE FROM HERE**] 箇所（判り難い）をデスクトップ等にドラッグして出力（**.mid**）
-    
+    * [**Meta MusicGen**](https://huggingface.co/spaces/facebook/MusicGen)
