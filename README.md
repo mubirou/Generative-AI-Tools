@@ -11,6 +11,7 @@
 > CREEVO（クリーボ）について  
     ・歌詞をもとに作曲する音楽生成AI  
     ・京都大学の研究チームによる開発
+    ・同様のツールに東京大学の [Orpheus](https://www.orpheus-music.org/)(オルフェウス) がある
 
 1. テキスト生成AIを使って作詞（12小節まで）
 1. Googleアカウントでログイン
@@ -48,7 +49,6 @@
         * RANGE ≒ ローパス･ハイパスフィルタ
 1. [**DRAG THE MIDI FILE FROM HERE**] 箇所（判り難い）をデスクトップ等にドラッグして出力（**.mid**）  
 参考：[GIGAZINE](https://gigazine.net/news/20230515-neuralnote/)（2023年5月15日記事）  
-参考：同様のソフトに東京大学 研究チームによる [Orpheus](https://www.orpheus-music.org/)(オルフェウス) もある  
 
 
 ### [**Meta MusicGen**](https://huggingface.co/spaces/facebook/MusicGen)
