@@ -91,7 +91,13 @@
 参考：[**signal**](https://signal.vercel.app/)（オンラインMIDIシーケンサー）  
 
 
-### [**Meta MusicGen**](https://huggingface.co/spaces/facebook/MusicGen)
+### [**Meta MusicGen**](https://huggingface.co/spaces/facebook/MusicGen)（音楽生成AI）
+
+> MusicGen（ミュージックジェン）について  
+    ・Meta社が開発  
+    ・テキストのプロンプトをもとに作曲  
+    ・既存のメロディ（.mp3）+プロンプトでも生成可能  
+
 
 
 ### [**Runway Gen-2**](https://app.runwayml.com/video-tools/teams/takashi246ra/dashboard)
