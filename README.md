@@ -87,7 +87,7 @@
     1. Minimum Note Length：ノート最短長（11）
     1. MIDI File Tempo：テンポ（120）
 
-参考：[YouTube](https://www.youtube.com/watch?v=rFq_2CwFMwo)  
+参考：[YouTube](https://www.youtube.com/watch?v=rFq_2CwFMwo)（Pasic Pitchの使用方法）  
 
 
 ### [**Meta MusicGen**](https://huggingface.co/spaces/facebook/MusicGen)
