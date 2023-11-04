@@ -6,7 +6,7 @@
     * [Claude2](https://claude.ai/chats)（クロード2）
     
 * 音楽生成AI
-    * [CREEVO](https://creevo-music.com/) クリーボ（歌詞→音楽生成）  
+    * [**CREEVO**](https://creevo-music.com/) クリーボ（歌詞→音楽生成）  
         1. テキスト生成AIを使って作詞（12小節まで）
         1. Googleアカウントでログイン
         1. [デザイン作曲] を選択
@@ -29,9 +29,9 @@
         1. インストゥルメンタル版で保存（.mp3）
     * [Meta MusicGen](https://huggingface.co/spaces/facebook/MusicGen)
     * [**NeuralNote**](https://github.com/DamRsn/NeuralNote)（Audio→MIDI変換）
-        1. [ここ](https://github.com/DamRsn/NeuralNote/releases)から **NeuralNote_Standalone_Windows.zip** をダウンロード
-        1. 展開後 **NeuralNote.exe** を起動
-        1. [**LOAD OR DROP AN AUDIO FILE**] から **〇〇.wav** をロード
+        1. [ここ](https://github.com/DamRsn/NeuralNote/releases)から NeuralNote_Standalone_Windows.zip をダウンロード
+        1. 展開後 NeuralNote.exe を起動
+        1. [LOAD OR DROP AN AUDIO FILE] から 〇〇.wav をロード
         1. 各種設定  
             1. TRANSCRIPTION
                 * NOTE SENSIBILITY ≒ ノート長（初期値0.70）
@@ -39,5 +39,5 @@
                 * MIN NOTE DURATION ≒ ノイズ除去（初期値125ms）
             1. SCALE QUANTIZE
                 * RANGE ≒ ローパス･ハイパスフィルタ
-        1. [**DRAG THE MIDI FILE FROM HERE**] 箇所をデスクトップ等にドラッグして出力（**.mid**）
+        1. [**DRAG THE MIDI FILE FROM HERE**] 箇所（判り難い）をデスクトップ等にドラッグして出力（**.mid**）
     
