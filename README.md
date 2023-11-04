@@ -19,6 +19,8 @@
 * 動画生成AI
     * Runway Gen-2（動画生成AI）
 
+***
+
 ## [ChatGPT](https://chat.openai.com/)（テキスト生成AI）
 ## [Gooble Bard](https://bard.google.com/chat)（テキスト生成AI）
 ## [Claude2 クロード](https://claude.ai/chats)（テキスト生成AI）
