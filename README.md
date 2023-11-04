@@ -37,8 +37,8 @@
 
 ### [**NeuralNote**](https://github.com/DamRsn/NeuralNote)（Audio→MIDI変換）
 
-> NeuralNote について  
-    ・音声ファイルをMIDIファイルに変換するツール  
+> NeuralNote（ニューラルノート）について  
+    ・音声ファイル（3分迄）をMIDI（.mid）に変換するツール  
     ・スタンドアロン版（Mac/Win対応）とVST3版がある
     ・.wav .aiff .flac .mp3 .ogg に対応
 
