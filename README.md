@@ -46,6 +46,17 @@
 参考：[**Audacity**](https://apps.microsoft.com/detail/audacity/XP8K0J757HHRDW?hl=ja-jp&gl=JP)（波形編集+MIDIシーケンサー）  
 
 
+### [**Meta MusicGen**](https://huggingface.co/spaces/facebook/MusicGen)（テキスト→音楽生成AI）
+
+> MusicGen（ミュージックジェン）について  
+    ・Meta社が開発（2023年6月発表）  
+    ・テキストのプロンプトをもとに作曲  
+    ・既存のメロディ（.mp3）+プロンプトでも生成可能  
+
+参考：[YouTube](https://www.youtube.com/results?search_query=Meta+MusicGen)（紹介動画）  
+※正直まだまだびみょーなツール（2023年11月4日現在）  
+
+
 ## [**NeuralNote**](https://github.com/DamRsn/NeuralNote)（音声→MIDI変換）
 
 > NeuralNote（ニューラルノート）について  
@@ -89,17 +100,6 @@
 
 参考：[YouTube](https://www.youtube.com/watch?v=rFq_2CwFMwo)（Pasic Pitchの使用方法）  
 参考：[**signal**](https://signal.vercel.app/)（オンラインMIDIシーケンサー）  
-
-
-### [**Meta MusicGen**](https://huggingface.co/spaces/facebook/MusicGen)（テキスト→音楽生成AI）
-
-> MusicGen（ミュージックジェン）について  
-    ・Meta社が開発（2023年6月発表）  
-    ・テキストのプロンプトをもとに作曲  
-    ・既存のメロディ（.mp3）+プロンプトでも生成可能  
-
-参考：[YouTube](https://www.youtube.com/results?search_query=Meta+MusicGen)（紹介動画）  
-※正直まだまだびみょーなツール（2023年11月4日現在）  
 
 
 ### [**Runway Gen-2**](https://app.runwayml.com/video-tools/teams/takashi246ra/dashboard)
