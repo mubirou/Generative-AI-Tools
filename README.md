@@ -162,7 +162,7 @@
 ### [**DALL･E3**](https://app.runwayml.com/video-tools/teams/takashi246ra/dashboard)（動画生成AI）
 
 > DALL･E3（ダリ3）について
-    ・OpenAI社が開発する画像生成AI
-    ・[GPT-4]-[DALL･E3]-[プロンプト] で生成
+    ・OpenAI社が開発する画像生成AI  
+    ・[GPT-4]-[DALL･E3]-[プロンプト] で生成  
 
 参考：[YouTube](https://www.youtube.com/watch?v=vqnPuTltFN8)（完全ガイド）  
