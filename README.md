@@ -46,7 +46,7 @@
 参考：[**Audacity**](https://apps.microsoft.com/detail/audacity/XP8K0J757HHRDW?hl=ja-jp&gl=JP)（波形編集+MIDIシーケンサー）  
 
 
-## [**NeuralNote**](https://github.com/DamRsn/NeuralNote)（Audio→MIDI変換）
+## [**NeuralNote**](https://github.com/DamRsn/NeuralNote)（音声→MIDI変換）
 
 > NeuralNote（ニューラルノート）について  
     ・音声ファイル（3分迄）をMIDI（.mid）に変換  
@@ -69,7 +69,7 @@
 参考：[**signal**](https://signal.vercel.app/)（オンラインMIDIシーケンサー）  
 
 
-## [Basic Pitch](https://basicpitch.spotify.com/)
+## [Basic Pitch](https://basicpitch.spotify.com/)（音声→MIDI変換）
 
 > Basic Pitch（ベーシックピッチ）について  
     ・ウェブベースで音声ファイル→MIDIに変換
