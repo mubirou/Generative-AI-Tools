@@ -1,5 +1,7 @@
 # Generative-AI-Tools
 
+### この項目は書きかけです
+
 * テキスト生成AI
     * [ChatGPT](https://chat.openai.com/)
     * [Gooble Bard](https://bard.google.com/chat)
