@@ -41,7 +41,7 @@
         * ドラムパターン
 1. [音声合成版] or [インストゥルメンタル版] を保存（.mp3）  
 
-参考：[Audacity](https://apps.microsoft.com/detail/audacity/XP8K0J757HHRDW?hl=ja-jp&gl=JP)（波形編集+MIDIシーケンサー）  
+参考：[**Audacity**](https://apps.microsoft.com/detail/audacity/XP8K0J757HHRDW?hl=ja-jp&gl=JP)（波形編集+MIDIシーケンサー）  
 
 
 ## [**NeuralNote**](https://github.com/DamRsn/NeuralNote)（Audio→MIDI変換）
@@ -64,7 +64,7 @@
 1. [DRAG THE MIDI FILE FROM HERE] 箇所（判り難い）をデスクトップ等にドラッグして出力（.mid）  
 
 参考：[GIGAZINE](https://gigazine.net/news/20230515-neuralnote/)（2023年5月15日記事）  
-参考：[signal](https://signal.vercel.app/)（オンラインMIDIシーケンサー）  
+参考：[**signal**](https://signal.vercel.app/)（オンラインMIDIシーケンサー）  
 
 
 ### [**Meta MusicGen**](https://huggingface.co/spaces/facebook/MusicGen)
