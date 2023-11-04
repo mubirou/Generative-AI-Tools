@@ -9,15 +9,15 @@
     * [Gooble Bard](#Bard)（テキスト生成AI）
 * 画像生成AI
 * 音楽生成AI
-    * Basic Pitch（音声→MIDI変換）
-    * CREEVO（歌詞→音楽生成AI）
-    * MusicGen（テキスト→音楽生成AI）
-    * NeuralNote（音声→MIDI変換）
+    * [Basic Pitch](#BasicPitch)（音声→MIDI変換）
+    * [CREEVO](#CREEVO)（歌詞→音楽生成AI）
+    * [MusicGen](#MusicGen)（テキスト→音楽生成AI）
+    * [NeuralNote](#NeuralNote)（音声→MIDI変換）
     * 補助ツール
-        * Audacity（DAW）
-        * signa（MIDIシーケンサー）
+        * [Audacity](https://apps.microsoft.com/detail/audacity/XP8K0J757HHRDW?hl=ja-jp&gl=JP)（DAW）
+        * [signal](https://signal.vercel.app/)（MIDIシーケンサー）
 * 音声生成AI
-    * 音読さん（音声生成AI）
+    * [音読さん](#ondoku)（音声生成AI）
 * 動画生成AI
     * Runway Gen-2（動画生成AI）
 
@@ -37,12 +37,17 @@
 ## [Claude2 クロード](https://claude.ai/chats)（テキスト生成AI）
 
 
+<a id="ondoku"></a>
+
 ## [**音読さん**](https://ondoku3.com/ja/)（音声生成AI）
 
 > 音読さんについて  
     ・テキストから音声を生成（.mp3）  
     ・無料で5000文字/月まで読み上げ可能  
     ・多言語、各種音声対応
+
+
+<a id="CREEVO"></a>
 
 ## [**CREEVO**](https://creevo-music.com/)（歌詞→音楽生成AI）
 
@@ -75,6 +80,8 @@
 参考：[**Audacity**](https://apps.microsoft.com/detail/audacity/XP8K0J757HHRDW?hl=ja-jp&gl=JP)（波形編集+MIDIシーケンサー）  
 
 
+<a id="MusicGen"></a>
+
 ### [**Meta MusicGen**](https://huggingface.co/spaces/facebook/MusicGen)（テキスト→音楽生成AI）
 
 > MusicGen（ミュージックジェン）について  
@@ -85,6 +92,8 @@
 参考：[YouTube](https://www.youtube.com/results?search_query=Meta+MusicGen)（紹介動画）  
 ※正直まだまだびみょーなツール（2023年11月4日現在）  
 
+
+<a id="NeuralNote"></a>
 
 ## [**NeuralNote**](https://github.com/DamRsn/NeuralNote)（音声→MIDI変換）
 
@@ -109,6 +118,8 @@
 参考：[GIGAZINE](https://gigazine.net/news/20230515-neuralnote/)（2023年5月15日記事）  
 参考：[**signal**](https://signal.vercel.app/)（オンラインMIDIシーケンサー）  
 
+
+<a id="BasicPitch"></a>
 
 ## [Basic Pitch](https://basicpitch.spotify.com/)（音声→MIDI変換）
 
