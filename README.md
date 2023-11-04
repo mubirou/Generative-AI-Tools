@@ -39,5 +39,5 @@
             1. SCALE QUANTIZE
                 * RANGE ≒ ローパス･ハイパスフィルタ
         1. [**DRAG THE MIDI FILE FROM HERE**] 箇所（判り難い）をデスクトップ等にドラッグして出力（**.mid**）  
-        参考：[Gigazine](https://gigazine.net/news/20230515-neuralnote/)（2023年5月15日記事）
+        参考：[GIGAZINE](https://gigazine.net/news/20230515-neuralnote/)（2023年5月15日記事）
     * [**Meta MusicGen**](https://huggingface.co/spaces/facebook/MusicGen)
