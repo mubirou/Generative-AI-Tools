@@ -59,9 +59,9 @@
 1. [LOAD OR DROP AN AUDIO FILE] から 〇〇.wav をロード
 1. 各種設定  
     1. TRANSCRIPTION
-        * NOTE SENSIBILITY ≒ ノート長（初期値0.70）
+        * NOTE SENSIBILITY ≒ 音認識の閾値（初期値0.70）
         * SPLIT SENSIBILITY ≒ 分割度合い（初期値0.50）
-        * MIN NOTE DURATION ≒ ノイズ除去（初期値125ms）
+        * MIN NOTE DURATION ≒ ノート最短長（初期値125ms）
     1. SCALE QUANTIZE
         * RANGE ≒ ローパス･ハイパスフィルタ
 1. [DRAG THE MIDI FILE FROM HERE] 箇所（判り難い）をデスクトップ等にドラッグして出力（.mid）  
@@ -78,6 +78,14 @@
 
 1. [Basic Pitch](https://basicpitch.spotify.com/) にアクセス
 1. [Drop your audio file here or click to select one] に 〇〇.wav をロード
+1. MIDIに変換されたら [SHOW MIDI ADJUSTMENTS] を選択
+1. 各種設定
+    1. Note Segmentation ≒ 分割度合い（初期値0.50）
+    1. Model Confidence Threshold ≒ 音認識の閾値（初期値0.30）
+    1. Minimum Pitch ≒ ローパスフィルタ（初期値0）
+    1. Maximun Pitch ≒ ハイパスフィルタ（初期値3000）
+    1. Minimum Note Length ≒ ノート最短長（初期値11）
+    1. MIDI File Tempo ≒ テンポ（初期値120）
 
 参考：[YouTube](https://www.youtube.com/watch?v=rFq_2CwFMwo)  
 
