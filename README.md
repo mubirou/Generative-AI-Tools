@@ -32,7 +32,9 @@
         * 伴奏パターン1,2
         * 伴奏楽器
         * ドラムパターン
-1. [音声合成版] or [インストゥルメンタル版] を保存（.mp3）
+1. [音声合成版] or [インストゥルメンタル版] を保存（.mp3）  
+
+参考：[Audacity](https://apps.microsoft.com/detail/audacity/XP8K0J757HHRDW?hl=ja-jp&gl=JP)（波形編集+MIDIシーケンサー）  
 
 
 ## [**NeuralNote**](https://github.com/DamRsn/NeuralNote)（Audio→MIDI変換）
