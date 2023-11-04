@@ -142,4 +142,11 @@
 参考：[**signal**](https://signal.vercel.app/)（オンラインMIDIシーケンサー）  
 
 
-### [**Runway Gen-2**](https://app.runwayml.com/video-tools/teams/takashi246ra/dashboard)
+### [**Runway Gen-2**](https://app.runwayml.com/video-tools/teams/takashi246ra/dashboard)（動画生成AI）
+
+> Runway（ランウェイ）について
+    ・Runway社が開発するブラウザベースの動画生成AI
+    ・テキスト→動画、画像→動画、画像+テキスト→動画
+    ・生成時間に制限あり
+
+参考：[YouTube](https://www.youtube.com/watch?v=ncwGMlccMkU)（使い方完全解説）  
