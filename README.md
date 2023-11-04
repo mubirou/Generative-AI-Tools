@@ -74,7 +74,10 @@
 
 > Basic Pitch（ベーシックピッチ）について  
     ・ウェブベースで音声ファイル→MIDIに変換
-    ・XXXX
+    ・.wav .mp3 等に対応
+
+1. [Basic Pitch](https://basicpitch.spotify.com/) にアクセス
+1. [Drop your audio file here or click to select one] に 〇〇.wav をロード
 
 参考：[YouTube](https://www.youtube.com/watch?v=rFq_2CwFMwo)  
 
