@@ -73,7 +73,7 @@
 ## [Basic Pitch](https://basicpitch.spotify.com/)（音声→MIDI変換）
 
 > Basic Pitch（ベーシックピッチ）について  
-    ・ウェブベースで音声ファイル→MIDIに変換
+    ・ウェブベースで音声ファイル→MIDIに変換  
     ・.wav .mp3 等に対応
 
 1. [Basic Pitch](https://basicpitch.spotify.com/) にアクセス
