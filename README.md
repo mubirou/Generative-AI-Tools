@@ -4,9 +4,10 @@
 
 #### Index
 * テキスト生成AI
-    * ChatGPT（テキスト生成AI）
-    * Claude2（テキスト生成AI）
-    * Gooble Bard（テキスト生成AI）
+    * [ChatGPT](#ChatGPT)（テキスト生成AI）
+    * [Claude2](#Claude)（テキスト生成AI）
+    * [Gooble Bard](#Bard)（テキスト生成AI）
+* 画像生成AI
 * 音楽生成AI
     * Basic Pitch（音声→MIDI変換）
     * CREEVO（歌詞→音楽生成AI）
@@ -21,9 +22,18 @@
     * Runway Gen-2（動画生成AI）
 
 ***
+<a id="ChatGPT"></a>
 
 ## [ChatGPT](https://chat.openai.com/)（テキスト生成AI）
+
+
+<a id="Bard"></a>
+
 ## [Gooble Bard](https://bard.google.com/chat)（テキスト生成AI）
+
+
+<a id="Claude"></a>
+
 ## [Claude2 クロード](https://claude.ai/chats)（テキスト生成AI）
 
 
