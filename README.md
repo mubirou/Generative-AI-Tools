@@ -74,6 +74,12 @@
 
 > Basic Pitch（ベーシックピッチ）について  
     ・ウェブベースで音声ファイル→MIDIに変換
-    ・
+    ・XXXX
+
+参考：[YouTube](https://www.youtube.com/watch?v=rFq_2CwFMwo)  
+
 
 ### [**Meta MusicGen**](https://huggingface.co/spaces/facebook/MusicGen)
+
+
+### [**Runway Gen-2**](https://app.runwayml.com/video-tools/teams/takashi246ra/dashboard)
