@@ -6,14 +6,14 @@
     * [Claude2](https://claude.ai/chats)（クロード2）
 
 
-## [**音読さん**](https://ondoku3.com/ja/)（テキスト→音声）
+## [**音読さん**](https://ondoku3.com/ja/)（音声生成AI）
 
 > 音読さんについて  
-    ・テキストからの音声生成AI（.mp3）
+    ・テキストから音声を生成する（.mp3）  
     ・無料で5000文字/月まで読み上げ可能
     ・多言語、各種音声対応
 
-## [**CREEVO**](https://creevo-music.com/)（歌詞→作曲）
+## [**CREEVO**](https://creevo-music.com/)（歌詞→音楽生成AI）
 
 > CREEVO（クリーボ）について  
     ・歌詞をもとに作曲（.mp3）する音楽生成AI  
