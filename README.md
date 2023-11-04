@@ -88,6 +88,7 @@
     1. MIDI File Tempo：テンポ（120）
 
 参考：[YouTube](https://www.youtube.com/watch?v=rFq_2CwFMwo)（Pasic Pitchの使用方法）  
+参考：[**signal**](https://signal.vercel.app/)（オンラインMIDIシーケンサー）  
 
 
 ### [**Meta MusicGen**](https://huggingface.co/spaces/facebook/MusicGen)
