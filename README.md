@@ -159,7 +159,7 @@
 
 <a id="DALLE"></a>
 
-### [**DALL･E3**](https://app.runwayml.com/video-tools/teams/takashi246ra/dashboard)（動画生成AI）
+### [**DALL･E3**](https://chat.openai.com/?model=gpt-4-dalle)（動画生成AI）
 
 > DALL･E3（ダリ3）について
     ・OpenAI社が開発する画像生成AI  
